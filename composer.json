@@ -1,0 +1,13 @@
+{
+  "name": "obsidianblaze/blogpackage",
+  "description": "A demo package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "James Doe",
+      "email": "john@doe.com"
+    }
+  ],
+  "require": {}
+}
